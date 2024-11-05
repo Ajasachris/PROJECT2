@@ -16,7 +16,7 @@ This project was designed to address the following analysis goals.
 ### FORMULAR USED
 ---
 ```
-Average Subscription = Total Subscription / customers
+Average Subscription = Total Subscription / no of customers
 ```
 
 ### TOOLS AND METHOD USED
