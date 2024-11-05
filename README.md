@@ -72,11 +72,6 @@ GROUP BY SubscriptionType
 ORDER BY number_custormers;
 ```
 
-
-
-# POWER BI
-
-
 ### find customers who canceled their subscription within 6 months.
 ```
 SELECT CustomerName, Canceled, SubscriptionEnd, SubscriptionStart
