@@ -27,7 +27,8 @@ Average Subscription = Total Subscription / no of customers
 - Data Visualization: Bar chart were created in excel to visually represent key insights.
 
 ### VISUAL ANALYSIS
-### 
+
+### SUBSCRIPTION PATTERN 
 
 
 
