@@ -5,6 +5,8 @@
 Customer segmentation is a powerful strategy for understanding and catering to different customer needs, preferences, and behaviors within a subscription service. By dividing the customer base into distinct groups, or "segments," a subscription business can tailor its marketing, product offerings, and customer engagement strategies to maximize satisfaction, reduce churn, and drive growth. Here’s an overview of the key aspects of customer segmentation for a subscription service:
 
 
+# MS EXCEL
+
  ### PROJECT OBJECTIVE
 ---
 This project was designed to address the following analysis goals.
@@ -120,7 +122,8 @@ FROM [dbo].[CustomerData];
 
 # POWER BI
 
-# PROJECT OBJECTIVE
+### PROJECT OBJECTIVE
+Build a POWER BI dashboard that visualizes key customer segments, cancellations, subscription trends. include slicers for interative analysis.
 
 
 
