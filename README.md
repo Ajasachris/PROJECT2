@@ -1,4 +1,4 @@
-### CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICE ANALYSIS
+# CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICE ANALYSIS
 
 ### PROJECT OVERVIEW
 ---
@@ -36,7 +36,7 @@ Average Subscription = Total Subscription / no of customers
 
 
 
-### STRUCTURED QUERY LANGUAGE
+# STRUCTURED QUERY LANGUAGE
 
 ### SKILLS
 ---
@@ -74,7 +74,7 @@ ORDER BY number_custormers;
 
 
 
-### POWER BI
+# POWER BI
 
 
 ### find customers who canceled their subscription within 6 months.
