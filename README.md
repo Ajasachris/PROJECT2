@@ -30,7 +30,14 @@ Average Subscription = Total Subscription / no of customers
 
 ### SUBSCRIPTION PATTERN 
 
+![Screenshot 2024-11-05 082154](https://github.com/user-attachments/assets/4f9e0466-5a2a-472c-ad8e-9caaa4a85577)
 
+### AVERAGE DURATION
+
+![Screenshot 2024-11-05 082723](https://github.com/user-attachments/assets/c23ecdc5-0c70-491c-92fb-697c4e9583dc)
+
+### MOST POPULAR SUBSCRIPTION TYPES
+![Screenshot 2024-11-05 082930](https://github.com/user-attachments/assets/b447ac06-2460-44d6-805c-b97f30494f00)
 
 
 
@@ -126,10 +133,7 @@ FROM [dbo].[CustomerData];
 ### PROJECT OBJECTIVE
 Build a POWER BI dashboard that visualizes key customer segments, cancellations, subscription trends. include slicers for interative analysis.
 
-
-
-
-
+![Screenshot 2024-11-05 083145](https://github.com/user-attachments/assets/3a3580fd-cf65-4605-add3-8eb3fb8b5073)
 
 
 
