@@ -123,4 +123,14 @@ FROM [dbo].[CustomerData];
 ```
 
 
+# POWER BI
+
+# PROJECT OBJECTIVE
+
+
+
+
+
+
+
 
